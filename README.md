@@ -14,16 +14,12 @@ Add the scripts in this Github to `/mystic/sexyz/` and edit the paths in the scr
 ### Configuration
 Find your protocol section in Mystic configuration.
 
-![mystic-protocols](https://github.com/user-attachments/assets/d5f4d691-9b4a-4733-9b8a-256fcbc3f133)
-
-<img src="https://github.com/user-attachments/assets/d5f4d691-9b4a-4733-9b8a-256fcbc3f133" width="300"> 
+<img src="https://github.com/user-attachments/assets/d5f4d691-9b4a-4733-9b8a-256fcbc3f133" width="500"> 
 
 Add Zmodem 8K:
 
-![SEXYZ-Zmodem8K](https://github.com/user-attachments/assets/426945c9-5858-4a4d-b29a-6f8e9b30f03c)
-
-<img src="https://github.com/user-attachments/assets/426945c9-5858-4a4d-b29a-6f8e9b30f03c" width="300">
+<img src="https://github.com/user-attachments/assets/426945c9-5858-4a4d-b29a-6f8e9b30f03c" width="500">
 
 Add Ymodem-G:
 
-![SEXYZ-YmodemG](https://github.com/user-attachments/assets/0c6ddc82-f280-426a-96ea-5a92786182cc)
+<img src="https://github.com/user-attachments/assets/0c6ddc82-f280-426a-96ea-5a92786182cc" width="500">
