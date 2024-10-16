@@ -6,6 +6,9 @@ Scripts and instructions to get SEXYZ working on Mystic BBS for Linux.
 - SEXYZ Ymodem works perfect in fTelnet for web based Telnet sessions
 - Feels good to tweak Mystic ;)
 
+## Note
+It took me a while to find out that downloading a queue or single file works different. Hence the script to fix that issue.
+
 ## Installation
 
 ### Scripts
