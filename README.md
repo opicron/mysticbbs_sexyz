@@ -9,7 +9,7 @@ Scripts and instructions to get SEXYZ working on Mystic BBS for Linux.
 ## Installation
 
 ### Scripts
-Add the scripts in this Github to `/mystic/sexyz/` and edit the paths in the scripts to match your installation
+Add the scripts, binary (sexyz) and settings file in this Github to `/mystic/sexyz/` and edit the paths in the scripts to match your installation
 
 ### Configuration
 Find your protocol section in Mystic configuration.
