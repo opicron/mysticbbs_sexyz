@@ -2,7 +2,7 @@
 Scripts and instructions to get SEXYZ working on Mystic BBS for Linux. 
 
 ## Why SEXYZ
-- SEXYZ Cancel transfer works better in Mystic, the internal protocols seems not liking canceling
+- SEXYZ cancel transfer works better than Mystic internal protocols
 - SEXYZ Ymodem works perfect in fTelnet for web based Telnet sessions
 - Feels good to tweak Mystic ;)
 
