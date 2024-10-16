@@ -16,9 +16,13 @@ Find your protocol section in Mystic configuration.
 
 ![mystic-protocols](https://github.com/user-attachments/assets/d5f4d691-9b4a-4733-9b8a-256fcbc3f133)
 
+<img src="https://github.com/user-attachments/assets/d5f4d691-9b4a-4733-9b8a-256fcbc3f133" width="300"> 
+
 Add Zmodem 8K:
 
 ![SEXYZ-Zmodem8K](https://github.com/user-attachments/assets/426945c9-5858-4a4d-b29a-6f8e9b30f03c)
+
+<img src="https://github.com/user-attachments/assets/426945c9-5858-4a4d-b29a-6f8e9b30f03c" width="300">
 
 Add Ymodem-G:
 
