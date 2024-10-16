@@ -1,4 +1,4 @@
-# mysticbbs_sexyz
+# Setup SEXYZ protocols in Mystic BBS
 Scripts and instructions to get SEXYZ working on Mystic BBS for Linux. 
 
 ## Why SEXYZ
