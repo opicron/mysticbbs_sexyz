@@ -11,7 +11,7 @@ It took me a while to find out that downloading a queue or single file works dif
 
 ## Installation
 
-### Scripts
+### Files
 Add the scripts, binary (sexyz) and settings file in this Github to `/mystic/sexyz/` and edit the paths in the scripts to match your installation
 
 ### Configuration
